@@ -5,7 +5,7 @@ images:
   newTag: v2 
 namePrefix: prd-
 #commonLabels:
-#  variants: development
+#  variants: production
 bases:
 - ../../base
 patchesStrategicMerge:
